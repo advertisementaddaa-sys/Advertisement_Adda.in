@@ -1,0 +1,359 @@
+Act as a senior Full-Stack Web Developer, UI/UX Designer, and Creative Director.
+
+Create a premium, modern, responsive website for my digital marketing agency called **Advertisement Adda**.
+
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Bootstrap 5
+- Font Awesome
+- Google Fonts (Poppins)
+- AOS (Animate On Scroll)
+- Swiper.js (Testimonials)
+- Typed.js (Hero Animation)
+
+## Website Theme
+
+Create a clean, luxurious, premium White Theme.
+
+Primary Color:
+#2563EB (Royal Blue)
+
+Secondary Color:
+#0F172A (Dark Navy)
+
+Accent Color:
+#06B6D4 (Cyan)
+
+Success Color:
+#22C55E
+
+Background:
+#FFFFFF
+
+Section Background:
+#F8FAFC
+
+Card Background:
+#FFFFFF
+
+Text Primary:
+#0F172A
+
+Text Secondary:
+#64748B
+
+Border:
+#E2E8F0
+
+Hover Color:
+#2563EB
+
+Buttons:
+Blue Gradient
+White Buttons
+Rounded Corners (15px)
+
+Design Style:
+- Apple Inspired
+- Modern SaaS
+- Premium Agency
+- Minimal
+- Elegant
+- Professional
+- Clean Layout
+- Glassmorphism (light effect)
+- Soft Shadows
+- Smooth Animations
+
+---
+
+## Pages
+
+- Home
+- About
+- Services
+- Portfolio
+- Pricing
+- Testimonials
+- FAQ
+- Contact
+
+---
+
+## Hero Section
+
+Headline:
+Grow Your Business with Advertisement Adda
+
+Subheading:
+We build powerful websites, run high-performing advertising campaigns, create premium branding, and help businesses generate more customers online.
+
+Buttons:
+- Get Free Quote
+- View Portfolio
+
+Hero Features:
+- Animated Background Shapes
+- Floating Icons
+- Modern Illustration
+- Statistics Counter
+- Scroll Indicator
+
+---
+
+## Services
+
+Create premium service cards for:
+
+🌐 Website Development
+₹8,000+
+
+📢 Advertisement
+₹6,000
+
+📱 Meta Ads
+₹6,000
+
+👥 Client Generation
+₹10,000
+
+🎨 Logo Design
+₹4,500
+
+🖼 Poster Design
+₹4,000
+
+🎭 Graphic Designing
+₹2,000
+
+📈 SEO
+
+📊 Google Ads
+
+📲 Social Media Marketing
+
+🏢 Branding
+
+💼 Business Consultation
+
+Each service card should include:
+- Icon
+- Description
+- Features
+- Learn More Button
+- Hover Animation
+
+---
+
+## Why Choose Advertisement Adda
+
+Professional Design
+
+Affordable Pricing
+
+SEO Optimized
+
+Fast Delivery
+
+Premium Quality
+
+Responsive Design
+
+24/7 Support
+
+Latest Technology
+
+Customer Satisfaction
+
+---
+
+## Statistics
+
+100+
+
+Projects Completed
+
+50+
+
+Happy Clients
+
+98%
+
+Client Satisfaction
+
+5+
+
+Years Experience
+
+---
+
+## Portfolio
+
+Create beautiful portfolio cards with category filters:
+
+- Websites
+- Logos
+- Posters
+- Branding
+- Social Media
+- Meta Ads
+
+Hover Effects:
+- Zoom
+- Overlay
+- View Project Button
+
+---
+
+## Pricing
+
+Create three premium pricing cards.
+
+Starter
+
+Business
+
+Enterprise
+
+Include:
+- Popular Badge
+- Hover Animation
+- CTA Button
+
+---
+
+## Testimonials
+
+Create modern testimonial cards with:
+- Customer Photo
+- Name
+- Company
+- Rating
+- Review
+
+Slider Animation
+
+---
+
+## FAQ
+
+Accordion Design
+
+Modern UI
+
+Smooth Animation
+
+---
+
+## Contact
+
+Fields:
+- Name
+- Email
+- Phone
+- Company Name
+- Service Required
+- Budget
+- Message
+
+Google Map Placeholder
+
+Floating WhatsApp Button
+
+---
+
+## Footer
+
+Company Logo
+
+Quick Links
+
+Services
+
+Social Media Icons
+
+Newsletter
+
+Privacy Policy
+
+Terms & Conditions
+
+Copyright
+
+---
+
+## Extra Features
+
+Sticky Navbar
+
+Smooth Scrolling
+
+Back To Top Button
+
+Loading Animation
+
+Animated Counters
+
+Parallax Sections
+
+Glass Cards
+
+Gradient Buttons
+
+Hover Effects
+
+Lazy Loading Images
+
+SEO Friendly HTML
+
+Fast Performance
+
+Accessibility
+
+Cross Browser Support
+
+Fully Responsive
+
+---
+
+## Folder Structure
+
+Advertisement-Adda/
+
+├── index.html
+├── about.html
+├── services.html
+├── portfolio.html
+├── pricing.html
+├── contact.html
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   ├── animation.css
+│   └── variables.css
+├── js/
+│   ├── script.js
+│   ├── animations.js
+│   ├── counter.js
+│   └── contact.js
+├── images/
+├── icons/
+└── assets/
+
+---
+
+## Requirements
+
+- Pixel-perfect UI
+- Premium White Theme
+- Mobile-first Responsive
+- Modern Animations
+- SEO Optimized
+- Clean, reusable code
+- Semantic HTML
+- Accessibility (WCAG)
+- Fast loading speed (90+ Lighthouse)
+- Production-ready quality
+- Every section should feel like a high-end agency website similar to Apple, Stripe, Vercel, and Webflow.
